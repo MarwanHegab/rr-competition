@@ -1,4 +1,4 @@
-# Rapid Reaching Robot Arm — CS403 Group Project
+# Rapid Reaching Competition
 
 A controller that drives a 6-DoF robotic arm to rapidly reach a set of randomly generated 3D target points in the **MuJoCo** physics simulator. Built for COMPSCI 403 (Introduction to Robotics) at UMass Amherst, where it placed **2nd of 7 teams** in the class competition with a mean completion time of **3.92 seconds**.
 
